@@ -1,12 +1,3 @@
-/*>Discente: Andreza Vilar de Farias
->Matrícula: 120210357
->Período: 2020.2
->Curso: Engenharia Elétrica
->Disciplina: Técnicas de Programação
->Turma: 02
->Professor: Marcus Salerno
->Unidade 1 : lab 2*/
-
 #include <iostream>
 #include <iomanip>
 
